@@ -1,4 +1,4 @@
-name: projects
+name: airline_assistant
 channels:
   - conda-forge
   - defaults
